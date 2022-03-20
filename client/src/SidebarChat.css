@@ -1,0 +1,26 @@
+.sidebarChat{
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    align-items: center;
+    border-bottom: 1px outset lightgray;
+    border-top: 1px outset lightgray;
+}
+
+.sidebarChat:hover {
+    background-color: lightgray;
+}
+
+.sidebarChat:hover p {
+    color: black;
+    text-transform: uppercase;
+}
+
+.sidebarChat:hover h3 {
+    color: black;
+    text-transform: uppercase;
+}
+
+.sidebarChat__info p, h3 {
+    margin-left: 20px;
+}
