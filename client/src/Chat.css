@@ -27,7 +27,7 @@
 
 .chat__body {
     flex: 1;
-    background-image: url("https://wallpapercave.com/wp/wp4410731.jpg");
+    background-image: url("https://i.pinimg.com/originals/58/c3/33/58c33377dfcbb3022493dec49d098b02.jpg");
     background-repeat: repeat;
     background-position: center;
     padding: 30px;
@@ -87,11 +87,13 @@
     border-radius: 30px;
     padding: 10px;
     border: none;
+    font-size: medium;
 }
 
 .chat__footer button {
     border-radius: 30px;
     background-color: #045e53;
+    font-size: medium;
 }
 
 .chat__footer .MuiSvgIcon-root {
